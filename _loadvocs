@@ -679,5 +679,6 @@ if player:getTitle() == ('Ikki [Fenix Divino]') then
  storage.ultimate = 'lenda fenix'
   info('Load: ' .. player:getTitle())
 end
+info('Loaded')
 
 end)
